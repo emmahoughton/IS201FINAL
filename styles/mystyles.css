@@ -1,0 +1,26 @@
+.new_font{
+    color:pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imageofme{
+    width: 300px;
+}
+
+.headerfont{
+    color:lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.supply{
+    width: 200px
+}
+
+.pickle{
+    width:100px;
+}
+
+.articles{
+    font-family: Arial, Helvetica, sans-serif;
+    color:lightskyblue
+}
